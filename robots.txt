@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://corporategatheringbatumalang.com/sitemap.xml
+Sitemap: https://corporategathering-batumalang.vercel.app/sitemap.xml
